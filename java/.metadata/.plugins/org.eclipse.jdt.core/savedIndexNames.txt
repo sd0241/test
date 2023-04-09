@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\1a1a2\Desktop\spirng\java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3518450642.index
+1220418152.index

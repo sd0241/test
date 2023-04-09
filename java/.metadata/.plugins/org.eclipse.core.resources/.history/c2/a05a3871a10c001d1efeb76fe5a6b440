@@ -1,0 +1,11 @@
+package ch10;
+
+public class Costant2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int iNum =255;
+		byte bNum = iNum;
+	}
+
+}

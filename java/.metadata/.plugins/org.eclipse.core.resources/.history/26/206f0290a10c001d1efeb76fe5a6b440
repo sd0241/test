@@ -1,0 +1,13 @@
+package ch10;
+
+public class Costant2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int iNum =256;
+		byte bNum = (byte)iNum;
+		System.out.println(bNum);
+		//byte의 범위를 넘어가기 때문에 -1이 뜸
+	}
+
+}
