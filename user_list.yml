@@ -1,0 +1,10 @@
+---
+users:
+ - name: ansible-node1
+   job: developers
+ - name: ansible-node2
+   job: developers
+ - name: ansible-node3
+   job: manager
+ - name: ansible-node4
+   job: manager
