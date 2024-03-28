@@ -2,9 +2,13 @@
 users:
  - name: jack
    job: developer
+   uid: 6666
  - name: alice
    job: developer
+   uid: 8888
  - name: curry
    job: manager
+   uid: 9090
  - name: tatum
    job: manager
+   uid: 8080
