@@ -1,5 +1,5 @@
-inventory_hostname=inventory_hostname
-total_memory=total_memory
-bios_version=bios_version
-sda_size=sda_size
-sdb_size=sdb_size
+HOST=HOST
+MEMORY=MEMORY
+BIOS=BIOS
+DISK_SIZE_SDA=DISK_SIZE_SDA
+DISK_SIZE_SDB=DISK_SIZE_SDB
