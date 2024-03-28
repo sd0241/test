@@ -1,12 +1,14 @@
 ---
 users:
  - name: john
-   job: developers
+   job: developer
    uid: 1234
  - name: harry
-   job: developers
+   job: developer
    uid: 3456
  - name: tom
-   job: 2222
+   job: manager
+   uid: 2222
  - name: bell
-   job: 3333
+   job: manager
+   uid: 3333
