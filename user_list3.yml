@@ -1,0 +1,14 @@
+---
+users:
+ - name: james
+   job: developers
+   passwd_max_expires: 20
+ - name: ryan
+   job: developers
+   passwd_max_expires: 30
+ - name: tiger
+   job: manager
+   passwd_max_expires: 7
+ - name: green
+   job: manager
+   passwd_max_expires: 24
