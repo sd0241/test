@@ -1,0 +1,12 @@
+---
+users:
+ - name: john
+   job: developers
+   uid: 1234
+ - name: harry
+   job: developers
+   uid: 1234
+ - name: tom
+   job: 2222
+ - name: bell
+   job: 3333
