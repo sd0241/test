@@ -5,7 +5,7 @@ users:
    uid: 1234
  - name: harry
    job: developers
-   uid: 1234
+   uid: 3456
  - name: tom
    job: 2222
  - name: bell
