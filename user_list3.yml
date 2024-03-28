@@ -6,7 +6,7 @@ users:
    uid: 7777
  - name: ryan
    job: developer
-   passwd_max_expires: 30
+   passwd_max_expires: 3
    uid: 4444
  - name: tiger
    job: manager
