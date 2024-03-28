@@ -3,12 +3,16 @@ users:
  - name: james
    job: developer
    passwd_max_expires: 20
+   uid: 7777
  - name: ryan
    job: developer
    passwd_max_expires: 30
+   uid: 4444
  - name: tiger
    job: manager
    passwd_max_expires: 7
+   uid: 5678
  - name: green
    job: manager
    passwd_max_expires: 24
+   uid: 7890
