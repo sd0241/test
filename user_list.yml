@@ -1,10 +1,10 @@
 ---
 users:
- - name: ansible-node1
+ - name: jack
    job: developers
- - name: ansible-node2
+ - name: alice
    job: developers
- - name: ansible-node3
+ - name: curry
    job: manager
- - name: ansible-node4
+ - name: tatum
    job: manager
