@@ -1,10 +1,10 @@
 ---
 users:
  - name: james
-   job: developers
+   job: developer
    passwd_max_expires: 20
  - name: ryan
-   job: developers
+   job: developer
    passwd_max_expires: 30
  - name: tiger
    job: manager
