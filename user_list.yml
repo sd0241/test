@@ -1,9 +1,9 @@
 ---
 users:
  - name: jack
-   job: developers
+   job: developer
  - name: alice
-   job: developers
+   job: developer
  - name: curry
    job: manager
  - name: tatum
